@@ -38,7 +38,10 @@ To run datasetCreator.js, use the command:
 
 Note that the entire website operates solely on your local machine, so any emails sent by the system (e.g., for account confirmation) will be available in the terminal as a link to the local email website.
 
-If you do not wish to install all these requirements, you can watch a demo presented below.
+If you do not wish to install all these requirements, you can watch a demo presented below:
+
+https://github.com/Mickeyo0o/TournamentsWebsite/assets/119634889/efdeb34d-90de-408b-9a91-b53702a37a6c
+
 
 ## Note
 
